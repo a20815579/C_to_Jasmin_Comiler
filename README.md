@@ -1,5 +1,5 @@
-# java_assembly_code_generator
-using lex and yacc to form a compiler, convert C code to java assembly code.
+# C_to_Jasmin_Comiler
+Using lex and yacc to form a compiler which can convert C code to java assembly code(Jasmin instruction).
 ## File discription
 - compiler_hw3.l  
 It is a lexical analyzer(scanner). The scanner transforms a character stream of source program into a token stream.  

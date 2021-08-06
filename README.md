@@ -1,4 +1,4 @@
-# C_to_Jasmin_Comiler
+# C_to_assembly_Comiler
 Using lex and yacc to form a compiler which can convert C code to java assembly code(Jasmin instruction).
 ## File discription
 - compiler_hw3.l  
